@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: uncursus-ios
+Components: main
+Date: Sun, 06 Sep 2020 01:27:44 +0000
+Description: Uncursus Repo Based On repo.me
+Label: Uncursus
+Origin: Uncursus
+Suite: stable
+Version: 1.0
+MD5Sum:
+ b14fca7af23b33c05f09f0c49c7aff88             1175 Packages
+ c8cce386701b4069a96254734cf3d066              714 Packages.bz2
+ 7b1f1152717700880008412192b9c90f              677 Packages.gz
+ d6f5aaefaace1694baa936068e2a3047              736 Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages.zst
+ e3b845d1b7288148d9e5fe888cc52214              210 Release
+SHA1:
+ 0a58632dde5b862c7bd9fd67975392285116f6f4             1175 Packages
+ 97af0803be8381f1692ccf86706d34443fd94640              714 Packages.bz2
+ f8516a1b9ae25987523314a2f69ea8f32f3915fc              677 Packages.gz
+ 117693b0f85ab4e345691c100e4e512d3947ba86              736 Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages.zst
+ c6c735b00d916ebc36332bbf5be0bab41c87c9bb              210 Release
+SHA256:
+ f71bcd5dc61a22bc05ac5fb8c04e4e831133f3065768880086618d53ca3069e9             1175 Packages
+ b40bf31195820fdc4fb41d7797939ee449deed7df1f4d2a8a5f2c3bc54c0057b              714 Packages.bz2
+ cf38d785949c6b91c137bc4625222be7c88cc0e8518508b1fb261db8e27fc423              677 Packages.gz
+ 78f8e588e37c9f7b30abe423d38dd4358d20690752e6868292b22c8592bf0411              736 Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages.zst
+ 6ce6cb791fb052118387c61f3fa87f707893c00a3ac980a5486ca94315e43f50              210 Release
+SHA512:
+ 40ad1ab816ecd012e9e6259a5043b16737c915d8f102584d5f071a7d0097b9a8e24c076a7c5d4d1f05d515280f56204252ebc7a5717432ef93bea886ee3ffb21             1175 Packages
+ 34c6b2667f87a33fa6671bb6280fa8deddd270d2a1c9da629e8885fce943747511d6474dd5ff5fb8c86a822887b5d7c4111355db42880529ee344da6fa2058c5              714 Packages.bz2
+ 3857b1cee78cce976190da2baa8486a4434bace2bccaeb37d661183366fdff229957aa02f7f400933e3963d6bc10a148f6ced7e4e426e704ce04ef868cd8c2dd              677 Packages.gz
+ 0772fb18ef07f6f62b2fbdf2fb3f056265955e44e4b6cf77250b77b778533433f520fdcc90e05643c0ac1d86c258e925323ee0f8d0e0a46255641d44f8ef54ee              736 Packages.xz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages.zst
+ 64b23c79d154276de0e3fdd4c73ce609ea7dbbff555212a1cca78a4170b271c29f8b77b17959ae445783defdfe2a6d3006ccf9bd3354a37bd64517b9914bb0ff              210 Release

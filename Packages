@@ -1,0 +1,35 @@
+Package: essential-dummy
+Architecture: iphoneos-arm
+Version: 1.0-14
+Priority: required
+Essential: yes
+Section: Essential
+Maintainer: Yaya4
+Installed-Size: 0
+Depends: repomigration
+Filename: ./debians/Essential-Dummy.deb
+Size: 744
+MD5sum: 6ea3aae9b16dbab8db0384382455759c
+SHA1: c7a9c465655c0d95efe6209fb00b7d8e28c10d20
+SHA256: cdc0af43310b3f0fe29e04865f2590f2e61ff2c99f5ed11fa66269a1043390b7
+SHA512: 606e98806bdd58d7173e632dc454541c3ce59bf4e70192bf5b78f6f6573ccc6ce6ea0439d09001519d3f38d4d14fab3abf4d73dd989dedd9fb16a8844344177d
+Description: Represents all dummy packages.
+Name: Essential Dummy
+
+Package: repomigration
+Architecture: iphoneos-arm
+Version: 1:1
+Priority: required
+Essential: yes
+Section: Essential
+Maintainer: Yaya4
+Installed-Size: 0
+Filename: ./debians/PsychoBreakRepoMigration.deb
+Size: 1688
+MD5sum: 2aa64a2502a9cbcd7bf5ee9428c16336
+SHA1: 062518977e636bf2cfe9677caf29d067dc98b807
+SHA256: c5e3e5835a81d9268a66ec1ed9e9b6c3343469af622a923cfdba04c3d65245f2
+SHA512: 72aef8a965fa896fa08d755ce5dca391e3e0eed5b5f6bb9226f6991de003072f377b2086912c83dcac7f8c76e10806d1ba81d25dd0b5c1ac996dfb7f7ca961dd
+Description: Migrate to the new repo !
+Name: Uncursus Repo Migration
+
